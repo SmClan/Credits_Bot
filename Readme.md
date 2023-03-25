@@ -58,3 +58,12 @@ $collect
 
 # لم يتم اطلاق التجميع التلقائي بعد ، نعمل عليه في التحديث الجديد
 </details>
+
+<details>
+
+<summary>الحاله</summary>
+
+
+![image](https://user-images.githubusercontent.com/128231402/227746998-9618ba88-7b21-4fa6-9360-605bc10db176.png)
+# مغلق إلى اشعارٍ آخر
+</details>
