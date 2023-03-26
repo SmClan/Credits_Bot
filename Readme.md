@@ -1,5 +1,9 @@
-<h1 style="color: Darkred;">Credits Bot Client V1.0</h1>
+<h1 style="color: Darkred;">Credits Bot Client V1.1</h1>
 
+# NEWS :
+```
+**$Auto**
+```
 <details>
 
 <summary>التحديثات</summary>
